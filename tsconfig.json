@@ -6,6 +6,7 @@
     "paths": {
       "@screen/*": ["screens/*"],
       "@shared/*": ["shared/*"],
+      "@features/*": ["features/*"],
     }
   },
   "include": ["**/*.ts", "**/*.tsx"],
